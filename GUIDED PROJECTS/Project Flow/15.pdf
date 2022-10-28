@@ -4,3 +4,14 @@ Step 3: Augmentation of data
 Step 4: Feature Extraction using CNN
 Step 5: The classification of Arrhythmia based on extracted features
 
+HOW WE ARE DOING IT
+====================
+
+Step 1: Code in the local machine in the Jupiter notebook using the anaconda navigator.
+Step 2: Saving the model in the IBM Watson studio.
+Step 3: App deployment through flash in python.
+
+
+
+
+
