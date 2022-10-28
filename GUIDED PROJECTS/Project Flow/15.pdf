@@ -1,1 +1,6 @@
+Step 1: Preprocessing the signal
+Step 2: Generation of spectrograms (2-D Images) using STFT
+Step 3: Augmentation of data
+Step 4: Feature Extraction using CNN
+Step 5: The classification of Arrhythmia based on extracted features
 
