@@ -1,7 +1,0 @@
-1. We aim to propose a 2-D Convolutional Neural Network to detect irregularities in the heartbeat
-   and realise the type of arrhythmia.
-
-2. We are converting 1-D ECG to 2-D data for accurate processing.
-
-3. We strive also to develop a user-friendly platform for users to use this technology.
-
